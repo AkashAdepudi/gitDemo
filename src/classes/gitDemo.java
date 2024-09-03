@@ -5,5 +5,6 @@ public class gitDemo {
 		System.out.println("this is demo GIT");
 		System.out.println("this is first demo git");
 		System.out.println("this is second commit");
+		System.out.println("third line of code");
 	}
 }
